@@ -1,9 +1,9 @@
 # Stray Part-Adoption
 
 A Spring Boot application, providing users with the ability to select and adopt pets from a pool of strays (animal shelter),
-for durations of a week. The user can sign one week for one adoption, from his given four total weeks.
+for durations of a week. The user can sign one week for one adoption, from their given four total weeks.
 In this way, the user have to repeat this adoption periodically every month ( 4 weeks = 1 month approx.).
-Consequently a user can adopt up to four pets for a month, and a stray can be adopted by up to four users in a month.
+Consequently a user can adopt up to four pets in a month, and a stray can be adopted by up to four users in a month.
 Having described that, it is clear that the user and the animal must have a common week free in order to make an adoption.
 Also the user have the possibility to sign for adopting the same animal for more than one time, as long as
 the above restrictions are being followed.
